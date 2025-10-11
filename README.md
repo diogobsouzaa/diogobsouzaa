@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <h3>Estudante de engenharia da computação</h3>
+  <h3>Estudante de engenharia da computação - USP</h3>
 </div>
 
 - **LinkedIn**: [www.linkedin.com/in/diogobsouza](www.linkedin.com/in/diogobsouza)
