@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 ---
 
----
-
 ### Atualmente Aprendendo:
 
 * <strong>Desenvolvimento Web <strong>
