@@ -64,6 +64,12 @@ Here are some ideas to get you started:
   <img src="https://leetcard.jacoblin.cool/Diogo119?theme=light&border_radius=8" alt="LeetCode Stats"/>
 </p>
 
+## Projetos
 
+### [Sistema de Autenticação Full-Stack (Python + FastAPI + React + Docker + PostgreSQL)](https://github.com/seu-usuario/authorization-system-fullstack)
+
+Um sistema completo de autenticação e gerenciamento de usuários construído do zero, incluindo login com JWT, Google OAuth2, roles de administrador e uma API containerizada. 
+
+`Python` `FastAPI` `React` `Docker` `PostgreSQL` `OAuth2` `JWT`
 
 ---
