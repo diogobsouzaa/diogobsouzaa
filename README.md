@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ---
 
 
-### 📊 Minhas Estatísticas no GitHub
+### Minhas Estatísticas no GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogobsouzaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
