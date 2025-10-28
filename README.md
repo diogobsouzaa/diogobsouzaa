@@ -61,7 +61,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogobsouzaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogobsouzaa&layout=compact&langs_count=7&theme=dracula"/>
-  <img src="https://leetcard.jacoblin.cool/Diogo119?theme=light&border_radius=8" alt="LeetCode Stats"/>
 </p>
 
 ## Projetos
