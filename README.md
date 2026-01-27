@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 
 ### Atualmente Aprendendo:
 
-* <strong>Desenvolvimento Web <strong>
-
-* <strong>Bases de Dados <strong>
+* <strong>Computação de Alto Desempenho <strong>
 
 ---
 
@@ -59,7 +57,7 @@ Here are some ideas to get you started:
 ### Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogobsouzaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogobsouzaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogobsouzaa&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
