@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <h3>Estudante de engenharia da computação - USP</h3>
 </div>
 
-- **LinkedIn**: [www.linkedin.com/in/diogobsouza](www.linkedin.com/in/diogobsouza)
+- **LinkedIn**: [www.linkedin.com/in/diogobsouza](https://www.linkedin.com/in/diogobsouza)
 - **E-mail**: diogobsouza2002@gmail.com
 
 ---
